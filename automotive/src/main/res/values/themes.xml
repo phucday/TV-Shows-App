@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TVShowsAppMVVM" parent="Theme.MaterialComponents.Light.NoActionBar" />
+</resources>
