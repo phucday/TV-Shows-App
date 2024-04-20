@@ -7,3 +7,4 @@ Feature:
 (using Retrofit call api combine Rxjava to show data for user)
 - Search tvshow by name and add to favourite watchlist
 - detail favorite tvshow(can add, delete) use Room 
+link demo : https://drive.google.com/file/d/1UROowoXMCtKefFVfRjFfx9TZLOfd2oNY/view?usp=sharing
