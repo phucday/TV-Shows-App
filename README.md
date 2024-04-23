@@ -1,6 +1,7 @@
 TVShow app
 
 Language: java
+
 Technology used: Android Studio, Room, MVVM Architecture, Retrofit, Rxjava, Livedata, DataBinding.
 
 Feature: 
