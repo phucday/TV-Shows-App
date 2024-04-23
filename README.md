@@ -8,4 +8,4 @@ Feature:
 - Search tvshow by name and add to favourite watchlist
 - detail favorite tvshow(can add, delete) use Room
 
-link demo : https://drive.google.com/file/d/1UROowoXMCtKefFVfRjFfx9TZLOfd2oNY/view?usp=sharing
+link demo : https://drive.google.com/file/d/1BDhP62uH6VA1p1BD9IdZ0FbDD_krxTQn/view?usp=sharing
