@@ -1,6 +1,7 @@
 TVShow app
+
 Language: java
-Technology used: Room, MVVM Architecture, Retrofit, Rxjava, Livedata, DataBinding 
+Technology used: Android Studio, Room, MVVM Architecture, Retrofit, Rxjava, Livedata, DataBinding.
 
 Feature: 
 - watch detail tvshow(date, description,..), esipode with season, web of tvShow
